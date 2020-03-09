@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "e5b2c369-6095-495e-be43-1b90e7f86db8",
+            "Value": {
+                "id": "43f3cf6f-7798-459f-b306-0c0a6281f2f5",
+                "resourcePath": "sprites\/Halleluyah\/Halleluyah.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ef1fe1d7-fe0c-4b34-9e6d-6fc61b757b3a",
             "Value": {
                 "id": "3d00598e-e3fe-4606-a87a-da3f06065e86",
